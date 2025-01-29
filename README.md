@@ -1,5 +1,4 @@
 
-[![MasterHead](file:///C:/Users/rajas/Downloads/WhatsApp%20Image%202025-01-29%20at%2012.29.15_4c5774d2.jpg)
 <h1 align="center">Hi 👋, I'm RAJASEKAR SURENDRAN</h1>
 <h3 align="center">Aspiring Junior Python Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhxOW85dG1scnBnMmszdmRsaXVuNzF4Y3Fsb2R6emxvYnUzNWsxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif")
