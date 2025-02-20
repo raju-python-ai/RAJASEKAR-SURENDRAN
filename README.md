@@ -3,11 +3,11 @@
 <h3 align="center">Aspiring Junior Python Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhxOW85dG1scnBnMmszdmRsaXVuNzF4Y3Fsb2R6emxvYnUzNWsxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif")
 
-🌱 I’m currently learning **Python and DSA**
+🌱 I’m currently learning **Python and Javasript**
 
  👨‍💻 All of my projects are available at [www.linkedin.com/in/rajasekarsurendran](www.linkedin.com/in/rajasekarsurendran)
 
-💬 Ask me about **Programming in C**
+💬 Ask me about **python and C**
 
 📫 How to reach me **rajasekar012004@gmail.com**
 
